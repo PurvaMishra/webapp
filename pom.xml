@@ -19,7 +19,7 @@
 </distributionManagement>  
 
 <scm>
-    <connection>scm:git:git@git@github.com:PurvaMishra/desktop.git</connection>
+    <connection>scm:git:git@github.com:PurvaMishra/desktop.git</connection>
     <developerConnection>scm:git:git@git@github.com:PurvaMishra/desktop.git
     </developerConnection>
     <url>git@git@github.com:PurvaMishra/desktop.git</url>
